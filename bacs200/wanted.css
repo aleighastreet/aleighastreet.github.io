@@ -38,7 +38,7 @@ main h1
   font-family: 'Courier', normal;
   margin: 0;
   font-weight: 100;
-  font-color: red;
+  color: blue-grey;
   
 }
 h1+h2
