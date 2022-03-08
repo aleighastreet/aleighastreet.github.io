@@ -16,7 +16,7 @@ text-align: center;
 }
 header
 {
-  backround-color: lightgrey;
+  backround-color: grey;
   border: 3px solid blue;
   margin: 10px 100px;
 }
