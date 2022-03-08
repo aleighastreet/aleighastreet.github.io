@@ -6,7 +6,7 @@ border: 1px solid blue;
 */
 :root
 {
---blue-grey: rgb(138, 175, 186)
+--blue-grey: rgb(138, 175, 186);
 }
 body
 {
@@ -16,20 +16,20 @@ text-align: center;
 }
 header
 {
-  backround-color: bluegrey;
-  border: 5px solid blue;
+  backround-color: lightgrey;
+  border: 3px solid blue;
   margin: 10px 100px;
 }
 header h1
 {
-  font-size: 60pt;
+  font-size: 50pt;
   margin-top: 10px;
   margin-bottom: 0;
 }
 header h2
 {
   font-size 20px;
-  color: var(--old-western-brown);
+  color: var(--blue-grey);
   font-variant: small-caps;
 }
 main h1
@@ -38,7 +38,7 @@ main h1
   font-family: 'Courier', normal;
   margin: 0;
   font-weight: 100;
-  color: blue-grey;
+  color: var(--blue-grey);
   
 }
 h1+h2
