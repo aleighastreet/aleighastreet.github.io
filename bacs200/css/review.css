@@ -1,1 +1,55 @@
+/*
+*
+{
+border: 1px solid blue;
+}
+*/
+:root
+{
+--blue-grey: rgb(138, 175, 186);
+}
+body
+{
+text-align: center;
+  list-style-position: inside;
+  backround-color: var(--blue-grey);
+}
+header
+{
+  backround-color: grey;
+  border: 3px solid blue;
+  margin: 10px 100px;
+}
+header h1
+{
+  font-size: 50pt;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+header h2
+{
+  font-size 20px;
+  color: var(--blue-grey);
+  font-variant: small-caps;
+}
+main h1
+{
+  font-size: 70pt;
+  font-family: 'Courier', normal;
+  margin: 0;
+  font-weight: 100;
+  color: var(--blue-grey);
+  
+}
+h1+h2
+{
+  margin-top: -15px;
+}
+main h2
+{
+  text-decoration: underline;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
 
