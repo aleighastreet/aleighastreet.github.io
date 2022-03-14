@@ -1,9 +1,19 @@
+/*
 *
 {
+ border: 1px solid blue;
+}
+*/
+:root
+{
+ --blue-grey: rgb(138, 175, 186);
+}
+body
+{
  font-size:20px;
- background-color: rgb(184,204,222);
+ background-color: var(--blue-grey);
  font-family:'Hubballi';
- scr:url (bacs200/css/fonts/Hubballi-Regular.ttf) format('truetype');
+ scr:url(bacs200/css/fonts/Hubballi-Regular.ttf) format('truetype');
 }
 *
 {
