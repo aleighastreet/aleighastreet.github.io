@@ -2,9 +2,6 @@
 {
  font-size:20px;
  background-color: rgb(184,204,222);
-}
-@font-face
-{
  font-family:'Hubballi';
  scr:url (bacs200/css/fonts/Hubballi-Regular.ttf) format('truetype');
 }
