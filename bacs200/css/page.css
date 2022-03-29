@@ -12,13 +12,11 @@ body
 {
  font-size:20px;
  background-color: var(--blue-grey);
- font-family:'Hubballi';
- scr:url(bacs200/css/fonts/Hubballi-Regular.ttf) format('truetype');
 }
-@font-face 
+@font-face
 {
  font-family:'Hubballi';
-  src:url('bacs200/css/fonts/Hubballi-Regular.ttf' format('truetype');
+ scr:url('css/fonts/Hubballi-Regular.ttf') format('truetype');
 }
 body
 {
