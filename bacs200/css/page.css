@@ -16,8 +16,12 @@ body
  scr:url(bacs200/css/fonts/Hubballi-Regular.ttf) format('truetype');
 }
 *
+@font-face {font-family:'Hubballi';
+  src:url('bacs200/css/fonts/Hubballi-Regular.ttf' format('truetype');
+}
+body
 {
- font-family:'Hubballi';
+  font-family:Hubballi-Regular;
 }
 h1
 {
