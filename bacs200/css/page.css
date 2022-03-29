@@ -16,7 +16,7 @@ body
 @font-face
 {
  font-family:'Hubballi';
- scr:url('css/fonts/Hubballi-Regular.ttf') format('truetype');
+ scr: url('css/fonts/Hubballi-Regular.ttf') format('truetype');
 }
 body
 {
@@ -25,6 +25,7 @@ body
 h1
 {
   font-size:35px;
+  font-family:'Hubballi-Regular';
 }
 h2
 {
