@@ -15,8 +15,9 @@ body
  font-family:'Hubballi';
  scr:url(bacs200/css/fonts/Hubballi-Regular.ttf) format('truetype');
 }
-*
-@font-face {font-family:'Hubballi';
+@font-face 
+{
+ font-family:'Hubballi';
   src:url('bacs200/css/fonts/Hubballi-Regular.ttf' format('truetype');
 }
 body
