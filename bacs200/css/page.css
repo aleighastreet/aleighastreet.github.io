@@ -1,45 +1,21 @@
-/*
-*
-{
- border: 1px solid blue;
-}
-*/
-:root
-{
- --blue-grey: rgb(138, 175, 186);
-}
-body
-{
- font-size:20px;
- background-color: var(--blue-grey);
-}
 @font-face
 {
- font-family:'Hubballi';
- scr: url('css/fonts/Hubballi-Regular.ttf') format('truetype');
+	font-family:'Hubballi';
+	src:url('/bacs200/css/Fonts/Hubballi-Regular.ttf') format('truetype');
 }
+
+p, h1, h2, h3
+{
+	font-family:'Hubballi';
+}
+
 body
 {
-  font-family:'Hubballi-Regular';
+    background-color:##b7c5c7;
 }
-h1
-{
-  font-size:35px;
-  font-family:'Hubballi-Regular';
-}
-h2
-{
-  font-size:25px;
-}
-h3
-{
-  font-size:18px;
-}
-img
-{
- width=500px
-}
+
 iframe
 {
- width="1060" height="615"
+    width:70%;
+    height:500px;
 }
