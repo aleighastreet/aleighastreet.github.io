@@ -1,4 +1,4 @@
-  .ex3 .parent {
-    display: grid;
-    grid-template-columns: minmax(150px, 25%) 1fr;
-  }
+div {
+  background-color: #c7d4c7;
+  padding: 10px 20px 40px;
+}
