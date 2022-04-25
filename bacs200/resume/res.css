@@ -35,16 +35,12 @@ list-style-type: none;
 display: block;
 padding: 3px;
 width: 160px;
-background:url(img/normal.png) repeat-x #dcdcdc;
-border-bottom: 1px solid #606061;
 }
 #navcontainer a:link, #navlist a:visited
 {
-color: #9c9d9d;
 text-decoration: none;
 }
 #navcontainer a:hover
 {
- background:url(img/hover.png) repeat-x #147bba;
-color: #fff;
+ background:url(img/hover.png) repeat-x;
 }
