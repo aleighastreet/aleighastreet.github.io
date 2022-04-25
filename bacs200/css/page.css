@@ -1,5 +1,5 @@
-@font-face
-{
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+*{
 	font-family:'Hubballi';
 	src:url('bacs200/css/fonts/Hubballi-Regular.ttf') format('truetype');
 }
