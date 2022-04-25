@@ -1,3 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+*{
+	font-family:'Hubballi';
+	src:url('bacs200/css/fonts/Hubballi-Regular.ttf') format('truetype');
+}
+
+p, h1, h2, h3
+{
+	font-family:'Hubballi';
+}
+
+body
+{
+    background-color:#c7d4c7;
+}
+
+iframe
+{
+    width:70%;
+    height:500px;
+}
 div {
   background-color: #c7d4c7;
   padding: 10px 20px 40px;
