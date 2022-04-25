@@ -11,11 +11,14 @@ p, h1, h2, h3
 h1{
    text-align: center;
 }
+h2{
+   text-align: center;
+}
 body
 {
     background-color:#c7d4c7;
 }
 div {
-  background-color: #c7d4c7;
+  background-color: #dfeddf;
   padding: 10px 20px 40px;
 }
